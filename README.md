@@ -98,16 +98,15 @@ mySprite.setPosition(randint(0, 10), 0)
 
 
 ## Introduction @showdialog
-In this tutorial, you will create your very own video game. Enemies will be falling from the sky, and it's up to you to shoot them before they can reach you. Follow the instructions, but feel free to be creative and add custom details at the end. Click **Ok** to get started!
-![Game Example](https://raw.githubusercontent.com/CalebMamula/cn-ninja-invaders-gbs/master/images./ninja-invader-gif.gif)
-## GBS: Ninja Invasion Step 1
-### Making Our Background  
+In this game, you will make a character jump over moving obstacles! Click **Ok** to get started!
+## Jumping Game Step 1
+### Jump
 
 
-First up, our game needs a background. Open ``||scene:Scene|`` and drag ``||scene:set background color||`` inside the ``||loops:on start||`` container already on the screen.
+First up, our game needs a background. Open ``||scene:Scene|`` and drag ``||scene:set background image to||`` inside the ``||loops:on start||`` container already on the screen.
 
 
-Click the grey bubble in the ``||scene: set background color||`` block and select a color to use as a background.
+Click the grey bubble in the ``||scene: set background image to||`` block and then select one from the gallery tab to use. 
 
 
 Check the Game Window on the right side of the screen to see the selected background color appear!
@@ -123,7 +122,7 @@ Click **Next** to go to the next step.
 Now we are going to create our main character. Open ``||sprites:Sprites||`` and drag the ``||variables:set [mySprite] to||`` block to the bottom of the ``||loops: on start||`` container.
 
 
-Click the grey oval and select the ninja picture under **My Assets**. Feel free to change this sprite and make it your own.
+Click the grey oval and select any sprite in the **Gallery**. Feel free to change this sprite and make it your own.
 
 
 Make sure to change the name of your sprite by clicking on **mySprite** and pressing **Rename variable**. Change the name to Ninja, or something else if you'd like. Just remember what you chose.
