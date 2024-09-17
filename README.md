@@ -115,7 +115,7 @@ Check the Game Window on the right side of the screen to see the selected backgr
 Click **Next** to go to the next step.
 
 
-## GBS: Ninja Invasion Step 2
+## Jumping Game Step 2
 ### Add Our Player Sprite
 
 
@@ -128,7 +128,7 @@ Click the grey oval and select any sprite in the **Gallery**. Feel free to chang
 Make sure to change the name of your sprite by clicking on **mySprite** and pressing **Rename variable**. Change the name to Ninja, or something else if you'd like. Just remember what you chose.
 
 
-## GBS: Ninja Invasion Step 3
+## Jumping Game Step 3
 ### Code Movement
 
 
