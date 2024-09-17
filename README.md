@@ -1,9 +1,8 @@
 
-> http://arcade.makecode.com/#tutorial:https://github.com/calebmamula/cn-ninja-invaders-gbs
+> http://arcade.makecode.com/#tutorial:https://github.com/CNNVBlackBelts/JumpingGame
 
 ### @explicitHints true
-# Code Ninjas Unofficial GBS (Ninja Invaders)
-
+# Code Ninjas Jumping Game
 
 ```assetjson
 {
